@@ -7,9 +7,9 @@ from datetime import datetime
 
 class ChangeDetection:
     result_prev = []
-    HOST = "http://JunMango.pythonanywhere.com/"
-    username = "Admin"
-    password = "qwer1234"
+    HOST = "http://sjieu17.pythonanywhere.com/"
+    username = "jin"
+    password = "0000"
     token = ""
     title = ""
     text = ""
